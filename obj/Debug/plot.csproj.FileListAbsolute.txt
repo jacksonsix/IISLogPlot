@@ -1,0 +1,11 @@
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\bin\Debug\plot.exe.config
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\bin\Debug\plot.exe
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\bin\Debug\plot.pdb
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.csprojResolveAssemblyReference.cache
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.Form1.resources
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.Properties.Resources.resources
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.csproj.GenerateResource.Cache
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.exe
+c:\users\jliang\documents\visual studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.pdb
+C:\Users\JLiang\Documents\Visual Studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.Form2.resources
+C:\Users\JLiang\Documents\Visual Studio 2015\Projects\ConsoleApplication1\plot\obj\Debug\plot.drawform.resources
